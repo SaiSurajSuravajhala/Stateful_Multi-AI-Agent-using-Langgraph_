@@ -17,14 +17,3 @@ The notebook shows how to:
 - **Dynamic Coordination:** The system showcases how distributed agents can work together in real-time, adapting to new inputs.
 - **Modular Architecture:** Easily extend or modify individual agents without affecting the overall system.
 
-## Setup and Requirements
-
-- **Python Version:** 3.8+
-- **Dependencies:**
-  - LangGraph (for agent orchestration)
-  - Transformers (for language processing, if applicable)
-  - Additional libraries as specified in `requirements.txt`
-
-To install dependencies, run:
-```bash
-pip install -r requirements.txt
